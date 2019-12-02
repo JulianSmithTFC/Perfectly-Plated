@@ -1,0 +1,1324 @@
+/*
+Theme Name: Meteorite Child
+Theme URI: https://terra-themes.com/theme/meteorite
+Template: meteorite
+Author: Terra Themes
+Author URI: https://terra-themes.com
+Description: Meteorite is a powerful multipurpose WordPress theme for business and portfolio websites. It brings everything you need to create an expressive website: Control over all colors and access to more than 800 Google fonts, header image or slider, different navigation types, multiple blog layouts and more than 20 widgets. Meteorite is built with SEO in mind, responsive, translation ready and supports the page builder by SiteOrigin and Elementor. Start creating your website with Meteorite!
+Tags: one-column,two-columns,three-columns,left-sidebar,right-sidebar,grid-layout,custom-background,custom-colors,custom-menu,custom-logo,featured-image-header,featured-images,footer-widgets,full-width-template,post-formats,theme-options,threaded-comments,translation-ready,blog,portfolio
+Version: 2.1.1553551827
+Updated: 2019-03-25 22:10:27
+
+*/
+
+
+/*----------------- Home Page ---------------*/
+/*Block One*/
+.home-blockOne-container{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/05/berries-bread-delicious-1660030-e1558629919491.jpg') !important;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.home-blockOne-containerLeft{
+
+}
+.home-blockOne-containerRight{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.home-blockOne-containerRightInner{
+    background: #ffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 300px;
+}
+.home-blockOne-headingLeft{
+    font-weight: 800;
+    color: #eb0088;
+}
+.home-blockOne-bodyText{
+    font-size: 16px;
+}
+.home-blockOne-btnLeft{
+    background-color: #8fc23f !important;
+    background: #8fc23f !important;
+    border-color: #ffff !important;
+    color: #ffff !important;
+    font-size: 14px !important;
+}
+.home-blockOne-headingRight{
+    color: #589e21;
+    font-weight: bold;
+}
+.home-blockOne-subheaddings{
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.home-blockOne-icons{
+    color: #589e21;
+}
+.home-blockOne-iconsBefore{
+    color: #000000;
+}
+.home-blockOne-btnRight{
+    background-color: #8fc23f !important;
+    background: #8fc23f !important;
+    border-color: #ffff !important;
+    color: #ffff !important;
+    font-size: 14px !important;
+}
+
+/*Block Two & Three*/
+.home-blockTwoThree-container{
+
+}
+
+
+/*Block Two*/
+.home-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.home-blockTwo-containers{
+    padding: 10px 10px 10px 10px;
+}
+.home-blockTwo-containerLeftInner{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/05/celebrate-celebration-cheers-1268558.jpg') !important;
+    background-size: cover;
+    padding: 10px 10px 10px 10px;
+}
+.home-blockTwo-containerMiddelInner{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/07/carrots-cucumber-delicious-1640777.jpg') !important;
+    background-size: cover;
+    padding: 10px 10px 10px 10px;
+}
+.home-blockTwo-containerRightInner{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/07/adding-adult-apron-1537166.jpg') !important;
+    background-size: cover;
+    padding: 10px 10px 10px 10px;
+    background-position: bottom;
+}
+.home-blockTwo-boarderInner{
+    border: 3px white solid !important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.home-blockTwo-buttons{
+    font-size: 20px !important;
+    color: #000000 !important;
+    background-color: #ffff !important;
+    border: #ffff !important;
+    padding: 5px 5px 5px 5px !important;
+    font-weight: bold !important;
+}
+
+/*Block Three*/
+.home-blockThree-container{
+    border: 5px #8fc23f solid;
+}
+.home-blockThree-containerLeft{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/home-page-prepping-class-picture.jpg') !important;
+    background-size: cover;
+}
+.home-blockThree-containerRight{
+    background-color: #8fc23f;
+    padding-top: 10px;
+    padding-bottom: 120px;
+}
+.home-blockThree-hr{
+
+}
+.home-blockThree-heading{
+    color: #ffff;
+}
+.home-blockThree-subheading{
+    color: #ffff;
+    font-size: 16px;
+}
+.home-blockThree-button{
+    color: #5FA325 !important;
+    background-color: #ffff !important;
+    border: #ffff !important;
+    font-size: 14px !important;
+}
+
+/*Block Four*/
+.home-blockFour-container{
+    background-color: #f84594;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.home-blockFour-containerLeft{
+
+}
+.home-blockFour-containerRight{
+
+}
+.home-blockFour-heading{
+    color: #ffffff;
+    margin-top: 30px !important;
+    font-size: 25px;
+}
+.home-blockFour-subheading{
+    color: #ffff;
+}
+.home-blockFour-submitButton{
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #5FA325 !important;
+}
+
+
+/*----------------- Meal Plans Page ---------------*/
+/*Block One*/
+.plans-blockOne-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.plans-blockOne-heading{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 44px !important;
+}
+.plans-blockOne-hr{
+    border-color: #4caf50;
+    background-color: #4caf50;
+    height: 3px;
+    max-width: 300px;
+    border-top-width: 0px !important;
+}
+
+/*Block Two*/
+
+
+/*Block Three*/
+.plans-blockThree-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #e91e63;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.plans-blockThree-heading{
+    color: #fff;
+    font-size: 25px;
+}
+.plans-blockThree-button{
+    background-color: #ffffff !important;
+    color: #e91e63 !important;
+    font-size: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    height: auto !important;
+    border-radius: 0px !important;
+    font-weight: bolder !important;
+}
+
+/*Block Four*/
+.plans-blockFour-container{
+
+}
+.plans-blockFour-innerContainer{
+    background-color: #f5f5f5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.plans-blockFour-containers{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.plans-blockFour-heading{
+    padding-bottom: 50px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.plans-blockFour-icons{
+}
+.plans-blockFour-reviewText{
+    font-size: 12px !important;
+}
+.plans-blockFour-nameText{
+    font-size: 14px;
+}
+
+/*Block Five*/
+.plans-blockFive-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.plans-blockFive-headings{
+    font-size: 18px;
+    line-height: 30px;
+}
+.plans-blockFive-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+.plans-blockFive-submitButton{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+}
+b{
+    font-weight: 900 !important;
+}
+
+/*----------------- Contact Page ---------------*/
+/*Block One*/
+.contact-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 800px;
+}
+.contact-heading{
+    color: #eb0088;
+    font-weight: 900;
+}
+.contact-subheading{
+
+}
+.contact-containerLeft{
+
+}
+.contact-containerRight{
+
+}
+.contact-containerRight-inner{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.contact-left-containers{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-bottom: 20px;
+
+    background-color: #f5f5f5 !important;
+}
+.contact-left-headings{
+    color: #ed299a;
+}
+.contact-left-subheadings{
+    line-height: 30px;
+    color: #444 !important;
+}
+.contact-left-icons{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.contact-right-lables{
+    font-size: 16px;
+    color: #eb0088;
+}
+.contact-right-lables-green{
+    font-size: 16px;
+    color: #8fc23f;
+}
+.contact-right-inputs{
+    font-size: 16px !important;
+}
+.contact-right-button{
+    background-color: #8fc23f !important;
+    color: #ffffff !important;
+    font-weight: 900 !important;
+    font-size: 14px !important;
+}
+
+/*----------------- About Page ---------------*/
+/*Block One*/
+.about-blockOne-container{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/05/celebrate-celebration-cheers-1268558.jpg') !important;
+    background-size: cover;
+}
+.about-blockOne-containerInner{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.about-blockOne-heading{
+    font-size: 60px !important;
+    color: #8fc23f;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/*Block Two*/
+.about-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+.about-blockTwo-containerLeft{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about-blockTwo-containerRight{
+
+}
+.about-blockTwo-heading{
+    color: #eb0088;
+    font-weight: 900;
+    font-size: 35px;
+}
+.about-blockTwo-bodyText{
+    padding-left: 20px;
+    font-size: 16px;
+}
+.about-blockTwo-circleImage{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/about-us-page-how-we-work-picture.jpg') !important;
+    background-size: cover;
+    border-radius: 50%;
+    margin-right: -20% !important;
+    width: 350px;
+    height: 350px !important;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/*Block Three*/
+.about-blockThree-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f5f5;
+    overflow: hidden;
+}
+.about-blockThree-containerLeft{
+
+}
+.about-blockThree-containerRight{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about-blockThree-heading{
+    color: #eb0088;
+    font-weight: 900;
+    font-size: 35px;
+}
+.about-blockThree-bodyText{
+    padding-left: 20px;
+    font-size: 16px;
+}
+.about-blockThree-circleImage{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/our-founder-picture.jpg') !important;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: -20% !important;
+    width: 350px;
+    height: 350px !important;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/*Block Four*/
+.about-blockFour-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about-blockFour-headings{
+    font-size: 18px;
+    line-height: 30px;
+}
+.about-blockFour-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+.about-blockFour-submitButton{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+}
+
+/*----------------- À La Carte Menu Page ---------------*/
+/*Block One*/
+.menu-blockOne-container{
+    padding-top: 50px;
+}
+.menu-blockOne-heading{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+.menu-blockOne-hr{
+    border-color: #4caf50;
+    background-color: #4caf50;
+    height: 3px !important;
+    max-width: 300px !important;
+}
+.menu-blockOne-instructionsText{
+    font-size: 18px !important;
+}
+
+/*Block Two*/
+.menu-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.menu-blockTwo-titles{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+.menu-blockTwo-hrLines{
+    border-color: #4caf50;
+    background-color: #4caf50;
+    height: 2px;
+    max-width: 400px;
+}
+.menu-blockTwo-table{
+    width:100%;
+    margin-bottom:50px;
+}
+.menu-blockTwo-productImage{
+    height: 125px;
+    width: 125px;
+    background-position: center;
+    background-size: cover;
+}
+.menu-blockTwo-productTitle{
+    margin:0px;
+    font-weight: bold;
+}
+.menu-blockTwo-productShortDes{
+
+}
+.menu-blockTwo-productNutritionInfo{
+    font-size: 12px !important;
+}
+.menu-blockTwo-productCategory{
+    margin: 0px !important;
+}
+.menu-blockTwo-productDietCategory{
+
+}
+.menu-blockTwo-productButton{
+    background-color: #eb1f8c;
+    border-color: #eb1f8c;
+    border: 1px solid #eb1f8c;
+    border-radius: 0px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    height: 40px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    transition: all 0.3s;
+    margin-bottom: 30px;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    overflow: visible;
+    left: auto;
+    ackground-image: none;
+    box-shadow: none;
+    text-shadow: none;
+}
+.menu-blockTwo-productButton:hover{
+    color: #eb1f8c;
+    background-color: transparent;
+    text-decoration: none;
+    background-image: none;
+    border-color: #eb1f8c;
+}
+.menu-blockTwo-productPrice{
+    color:#eb1f8c;
+    font-weight: bold;
+}
+
+/*Block Three*/
+.menu-blockThree-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.menu-blockThree-heading{
+    font-weight: bold;
+}
+.menu-blockThree-bodyText{
+    font-size: 25px !important;
+}
+.menu-blockThree-icon{
+
+}
+.menu-blockThree-inputFields{
+    border-color: #4caf50 !important;
+    background-color: none !important;
+    color: #9e9e9e !important;
+}
+.menu-blockThree-submitButton{
+    background-color: #e91e63 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    height: auto !important;
+}
+.menu-blockThree-mc_embed_signup{
+    clear:left;
+    font-size: 14px;
+}
+
+/*Block Four*/
+.menu-blockFour-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #e91e63;
+}
+.menu-blockFour-heading{
+    color: #fff;
+    font-size: 25px;
+}
+.menu-blockFour-button{
+    background-color: #ffffff !important;
+    color: #e91e63 !important;
+    font-size: 15px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    height: auto !important;
+    border-radius: 0px !important;
+    font-weight: bolder !important;
+}
+
+
+/*----------------- How It Works Page ---------------*/
+/*Block One*/
+.how-blockOne-container{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/almonds-berries-blackberries-1099680.jpg') !important;
+    background-size: cover;
+}
+.how-blockOne-containerInner{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.how-blockOne-heading{
+    font-size: 60px !important;
+    color: #8fc23f;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/*Block Two*/
+.how-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.how-blockTwo-containerImage{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/PP-Korean-Pork-Chops-W.jpg') !important;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.how-blockTwo-containerInner{
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.how-blockTwo-heading{
+    color: #eb0088;
+    font-size: 20px !important;
+    line-height: 30px;
+}
+.how-blockTwo-bodyText{
+
+}
+.how-blockTwo-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+
+/*Block Three*/
+.how-blockThree-container{
+    padding-bottom: 50px;
+}
+.how-blockThree-containerImage{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/05/PP-Almond-Joy-Bites-Paleo.jpg') !important;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.how-blockThree-containerInner{
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.how-blockThree-heading{
+    color: #eb0088;
+    font-size: 20px !important;
+    line-height: 30px;
+}
+.how-blockThree-bodyText{
+
+}
+.how-blockThree-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+
+/*Block Four*/
+.how-blockFour-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f5f5;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+.how-blockFour-containers{
+    padding: 10px 10px 10px 10px;
+}
+.how-blockFour-containerLeft{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.how-blockFour-heading{
+    font-weight: bolder;
+}
+.how-blockFour-bodyText{
+    font-size: 18px !important;
+}
+.how-blockFour-hr{
+    border-color: #4caf50;
+    background-color: #4caf50;
+    height: 2px;
+    max-width: 400px;
+}
+.how-blockFour-image{
+
+}
+.how-blockFour-button{
+    background-color: #8fc23f !important;
+    color: #ffffff !important;
+    font-weight: 900 !important;
+    font-size: 14px !important;
+    margin-top: 50px !important;
+}
+
+/*Block Five*/
+.how-blockFive-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.how-blockFive-heading{
+    font-weight: bolder;
+}
+.how-blockFive-icon{
+
+}
+.how-blockFive-questions{
+
+}
+.how-blockFive-answeres{
+    padding: 20px 20px 20px 20px;
+    background-color: #f5f5f5;
+}
+
+
+/*Block Six*/
+.how-blockSix-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f5f5;
+}
+.how-blockSix-headings{
+    font-size: 18px;
+    line-height: 30px;
+}
+.how-blockSix-inputField{
+
+}
+.how-blockSix-submitButton{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+}
+
+
+
+/*----------------- Catering Page ---------------*/
+/*Block One*/
+.catering-blockOne-container{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/IMG_1832.jpg') !important;
+    background-size: cover;
+    background-position: center;
+}
+.catering-blockOne-containerInner{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.catering-blockOne-heading{
+    font-size: 60px !important;
+    color: #8fc23f;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/*Block Two*/
+.catering-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.catering-blockTwo-containerInner{
+    background-color: #f5f5f5;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.catering-blockTwo-containerLeft{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.catering-blockTwo-containerMiddle{
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.catering-blockTwo-containerRight{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.catering-blockTwo-left-headings{
+
+}
+.catering-blockTwo-left-subheadings{
+
+}
+.catering-blockTwo-middle-heading{
+    color: #eb0088;
+    font-weight: bold;
+}
+.catering-blockTwo-middle-bodyText{
+
+}
+.catering-blockTwo-right-button{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+    font-size: 18px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    line-height: 25px !important;
+    height: auto !important;;
+}
+
+/*Block Three*/
+.catering-blockThree-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.catering-blockThree-containers{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.catering-blockThree-containersInner{
+    background-size: cover;
+    min-height: 400px;
+    padding-top: 300px;
+    max-width: 350px;
+}
+.catering-blockThree-headings{
+    text-align: center;
+    background-color: #8fc23f;
+    color: #ffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*Block Four*/
+.catering-blockFour-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f5f5;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.catering-blockFour-heading{
+    color: #eb0088;
+    font-weight: bold;
+}
+.catering-blockFour-inputFields{
+
+}
+.catering-blockFour-submitButton{
+    background-color: #8fc23f !important;
+    border-color: #8fc23f !important;
+    color: #ffff !important;
+    font-size: 12px !important;
+}
+
+/*Block Five*/
+.catering-blockFive-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.catering-blockFive-headings{
+    font-size: 18px;
+    line-height: 30px;
+}
+.catering-blockFive-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+.catering-blockFive-inputField{
+
+}
+.catering-blockFive-submitButton{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+}
+
+
+
+/*----------------- Desserts Page ---------------*/
+/*Block One*/
+.desserts-blockOne-container{
+    background-image: url('https://perfectlyplated.com/wp-content/uploads/2019/06/IMG_2909.jpg') !important;
+    background-size: cover;
+}
+.desserts-blockOne-containerInner{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.desserts-blockOne-heading{
+    font-size: 60px !important;
+    color: #8fc23f;
+    background-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/*Block Two*/
+.desserts-blockTwo-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.desserts-blockTwo-containerInner{
+    background-color: #f5f5f5;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.desserts-blockTwo-containerLeft{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.desserts-blockTwo-containerMiddle{
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.desserts-blockTwo-containerRight{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.desserts-blockTwo-left-headings{
+
+}
+.desserts-blockTwo-left-subheadings{
+
+}
+.desserts-blockTwo-middle-heading{
+    color: #eb0088;
+    font-weight: bold;
+}
+.desserts-blockTwo-middle-bodyText{
+
+}
+.desserts-blockTwo-right-button{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+    font-size: 18px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    line-height: 25px !important;
+    height: auto !important;;
+}
+
+/*Block Three*/
+.desserts-blockThree-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.desserts-blockThree-containers{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.desserts-blockThree-containersInner{
+    background-size: cover;
+    min-height: 400px;
+    padding-top: 300px;
+    max-width: 350px;
+}
+.desserts-blockThree-headings{
+    text-align: center;
+    background-color: #8fc23f;
+    color: #ffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*Block Four*/
+.desserts-blockFour-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f5f5;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.desserts-blockFour-heading{
+    color: #eb0088;
+    font-weight: bold;
+}
+.desserts-blockFour-inputFields{
+
+}
+.desserts-blockFour-submitButton{
+    background-color: #8fc23f !important;
+    border-color: #8fc23f !important;
+    color: #ffff !important;
+    font-size: 12px !important;
+}
+
+/*Block Five*/
+.desserts-blockFive-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.desserts-blockFive-headings{
+    font-size: 18px;
+    line-height: 30px;
+}
+.desserts-blockFive-button{
+    background-color: #f84595 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+}
+.desserts-blockFive-inputField{
+
+}
+.desserts-blockFive-submitButton{
+    background-color: #f84595 !important;
+    border-color: #f84595 !important;
+    color: #fff !important;
+}
+
+
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+.featured-fix {
+    height: 100%;
+}
+
+
+/* Grow */
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#main-nav ul ul li a{
+    color: #eb1f8c !important;
+}
+
+#mobile-menu ul li a{
+    font-size: 18px !important;
+}
+
+.footer{
+    background-color: #ffff !important;
+}
+.footer-nav{
+    color: #f84595 !important;
+    font-size: 18px !important;
+}
+.footer-logo{
+    max-width: 200px !important;
+}
+.footer-credit{
+    font-size: 16px !important;
+    color: #8fc23f !important;
+}
+
+
+.bundled_product_checkbox{
+    color: #eb1f8c;
+}
+
+.bundled_product_optional_checkbox{
+    border: 2px solid #eb1f8c;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    color: #eb1f8c;
+
+}
+
+
+.bundled_product_container{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bundled_product_productImage_custom{
+    height: 125px;
+    width: 125px;
+    background-position: center;
+    background-size: cover;
+}
+.bundled_product_title_custom{
+    margin:0px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+#my_custom_checkout_field .woocommerce-input-wrapper{
+    margin-left: 23px;
+}
+
+#are_you_following_calender_menu{
+	margin: 11px 0px 5px -22px;
+}
+#my_custom_checkout_field .optional{
+	display:none;
+}
+
+/*----------------- Challenge Page ---------------*/
+/*Block One*/
+.challenge-blockOne-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.challenge-blockOne-heading{
+    color: #1ECC00;
+    font-size: 40px;
+}
+.challenge-blockOne-subheading{
+    font-size: 20px;
+}
+.challenge-blockOne-priceOuterContainer{
+
+}
+.challenge-blockOne-priceInnerContainer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.challenge-blockOne-priceContainer{
+    padding-left: 40px;
+    padding-right: 40px;
+    max-width: 400px;
+}
+.challenge-blockOne-pricingHeading{
+    color: #000000;
+    font-weight: bolder;
+}
+.challenge-blockOne-hrline{
+    border-color: #1ECC00 !important;
+    border-width: 3px !important;
+    background-color: #1ecc00;
+    height: 3px;
+}
+.challenge-blockOne-priceSubheading{
+    color: #000000;
+}
+.challenge-blockOne-ul{
+
+}
+.challenge-blockOne-li{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.challenge-blockOne-buttonTop{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-color: #FF69C6 !important;
+    border-radius: 0px !important;
+    color: #ffff !important;
+}
+.challenge-blockOne-buttonBottom{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    border-radius: 0px !important;
+    border-color: #1ECC00 !important;
+    border-width: 3px !important;
+    color: #1ECC00 !important;
+}
+.challenge-blockOne-message{
+
+}
+
+/*Block Two*/
+.challenge-blockTwo-container{
+    background-color: #FF69C6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.challenge-blockTwo-heading{
+    color: #fff;
+}
+.challenge-blockTwo-button{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    background-color: #FF69C6 !important;
+    border-radius: 0px !important;
+    color: #ffff !important;
+    border-color: #ffff !important;
+    border-width: 3px !important;
+    font-size: 15px !important;
+}
+
+/*Block Three*/
+.challenge-blockThree-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.challenge-blockThree-heading{
+    color: #1ECC00;
+    font-size: 40px;
+}
+.challenge-blockThree-prodContainers{
+    border-width: 3px;
+    border-style: solid;
+    border-color: #FF69C6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.challenge-blockThree-prodHeading{
+
+}
+.challenge-blockThree-prodButtons{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-color: #FF69C6 !important;
+    border-radius: 0px !important;
+    color: #ffff !important;
+    font-size: 15px !important;
+}
+
+.challenge-blockThree-bodyText{
+
+}
+
+/*----------------- Thanksgiving Menu ---------------*/
+/*Block One*/
+.popup-thanksgiving-container{
+    padding: 15px 15px 15px 15px !important;
+}
+.popup-thanksgiving-topclose{
+    font-size: 16px !important;
+    padding: 10px 10px 10px 10px !important;
+}
+.popup-thanksgiving-heading{
+    font-size: 20px !important;
+}
+.popup-thanksgiving-closebtn{
+    background: #ed1c24 !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+.featured-fix {
+    height: 100%;
+}
+
+.woocommerce form .form-row .input-checkbox {
+    display: inline;
+    margin: 40px 8px 0 0;
+    text-align: center;
+    vertical-align: middle;
+}
