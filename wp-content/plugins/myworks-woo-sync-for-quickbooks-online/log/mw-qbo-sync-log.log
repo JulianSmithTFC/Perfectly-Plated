@@ -1,0 +1,2430 @@
+
+Customer Update (2019-07-25 12:54:07)
+Woocommerce Data:
+Array
+(
+    [wc_customerid] => 4
+    [wc_cus_id ] => 4
+    [firstname] => Zain
+    [lastname] => Anabtawi
+    [email] => dev@myworks.software
+    [website] => 
+    [company] => MyWorks Design
+    [nickname] => quartz_woocommerce
+    [first_name] => Zain
+    [last_name] => Anabtawi
+    [description] => 
+    [dismissed_wp_pointers] => wcs_pointer,wp496_privacy,mw_wc_qbo_syncqb_online_sync
+    [manageedit-shop_ordercolumnshidden] => a:0:{}
+    [wp_dashboard_quick_press_last_post_id] => 22777
+    [managenav-menuscolumnshidden] => a:5:{i:0;s:11:"link-target";i:1;s:11:"css-classes";i:2;s:3:"xfn";i:3;s:11:"description";i:4;s:15:"title-attribute";}
+    [metaboxhidden_nav-menus] => a:5:{i:0;s:30:"woocommerce_endpoints_nav_link";i:1;s:21:"add-post-type-product";i:2;s:12:"add-post_tag";i:3;s:15:"add-product_cat";i:4;s:15:"add-product_tag";}
+    [billing_first_name] => Zain
+    [billing_last_name] => Anabtawi
+    [billing_company] => MyWorks Design
+    [billing_email] => zainanabtawi02@gmail.com
+    [billing_phone] => 9723104344
+    [billing_country] => US
+    [billing_address_1] => 201 Main St
+    [billing_address_2] => 
+    [billing_city] => Fort Worth
+    [billing_state] => TX
+    [billing_postcode] => 75104
+    [shipping_first_name] => Zain
+    [shipping_last_name] => Anabtawi
+    [shipping_company] => MyWorks Design
+    [shipping_country] => US
+    [shipping_address_1] => 201 Main St
+    [shipping_address_2] => 
+    [shipping_city] => Fort Worth
+    [shipping_state] => TX
+    [shipping_postcode] => 75104
+    [_imagify_ignore_notices] => a:1:{i:0;s:13:"welcome-steps";}
+    [closedpostboxes_dashboard] => a:1:{i:0;s:21:"dashboard_quick_press";}
+    [metaboxhidden_dashboard] => a:0:{}
+    [closedpostboxes_product] => a:3:{i:0;s:14:"product_catdiv";i:1;s:19:"tagsdiv-product_tag";i:2;s:22:"wc-jetpack-custom-tabs";}
+    [metaboxhidden_product] => a:1:{i:0;s:7:"slugdiv";}
+    [_wchau_source] => Twitter
+    [billing_test] => 
+    [billing_test2] => 
+    [discrete_ship] => Yes
+    [paying_customer] => 1
+    [rocket_boxes] => a:0:{}
+    [show_welcome_panel] => 
+    [_wc_plugin_framework_avatax_dismissed_messages] => a:1:{s:17:"wc-avatax-welcome";b:1;}
+    [billing_customval1] => 
+    [_woocommerce_persistent_cart] => a:1:{s:4:"cart";a:0:{}}
+    [community-events-location] => a:1:{s:2:"ip";s:12:"162.235.63.0";}
+    [billing_purchaseorder] => NUM3494949
+    [meta-box-order_shop_order] => a:4:{s:15:"acf_after_title";s:0:"";s:4:"side";s:82:"select-location,woocommerce-order-actions,qbo_invoice_info,woocommerce-order-notes";s:6:"normal";s:185:"acf-group_5aaeda45e7fea,acf-group_58a1d10daaf40,acf-group_5838508d32c1c,woocommerce-order-data,woocommerce-order-items,postcustom,woocommerce-order-downloads,subscription_renewal_orders";s:8:"advanced";s:0:"";}
+    [screen_layout_shop_order] => 2
+    [closedpostboxes_shop_order] => a:0:{}
+    [metaboxhidden_shop_order] => a:0:{}
+    [_wc_plugin_framework_admin_custom_order_fields_dismissed_messages] => a:1:{s:13:"read-the-docs";b:1;}
+    [edit_shop_order_per_page] => 20
+    [wc_last_active] => 1564012800
+    [dismissed_update_notice] => 1
+    [closedpostboxes_vpc-config] => a:1:{i:0;s:22:"vpc-config-preview-box";}
+    [metaboxhidden_vpc-config] => a:1:{i:0;s:7:"slugdiv";}
+    [aelia_cs_selected_currency] => EUR
+    [shipping_method] => a:1:{i:0;s:11:"flat_rate:3";}
+    [show_try_gutenberg_panel] => 
+    [dismissed_wootenberg_notice] => 1
+    [meta-box-order_product] => a:4:{s:15:"acf_after_title";s:0:"";s:4:"side";s:125:"groups-permissions,submitdiv,product_catdiv,tagsdiv-product_tag,postimagediv,woocommerce-product-images,product_grid_category";s:6:"normal";s:104:"woocommerce-product-data,acf-group_58a1d10daaf40,acf-group_5838508d32c1c,slugdiv,postexcerpt,commentsdiv";s:8:"advanced";s:0:"";}
+    [screen_layout_product] => 2
+    [closedpostboxes_gift_card] => a:0:{}
+    [metaboxhidden_gift_card] => a:1:{i:0;s:7:"slugdiv";}
+    [sc_applied_coupon_from_url] => a:0:{}
+    [_woocommerce_tracks_anon_id] => woo:DgU7v+4rgjEyIDUO+6Ux3do1
+    [groups-remind-later-notice] => 1557848912
+    [groups-hide-review-notice] => 1
+    [outlet] => a:1:{i:0;s:1:"1";}
+    [discount] => enable
+    [disable_pos_payment] => no
+    [approve_refunds] => no
+    [work_phone] => 
+    [_work_phone] => field_5ab6aa9e2e073
+    [mobile_phone] => 
+    [_mobile_phone] => field_5ab6ab292e075
+    [alternative_phone ] => 
+    [_alternative_phone ] => field_5ac282b7a400b
+    [fax] => 
+    [_fax] => field_5ab6ab802e077
+    [sales_contact_first_name] => 
+    [_sales_contact_first_name] => field_5ad75c21f2181
+    [contact_last_name] => 
+    [_contact_last_name] => field_5ad75c58f2182
+    [contact_role] => 
+    [_contact_role] => field_5ad75ceb4fa12
+    [contact_email] => 
+    [_contact_email] => field_5ad75c847cdc9
+    [contact_preferred_phone] => 
+    [_contact_preferred_phone] => field_5ad75d128b6bb
+    [account_status] => First Time
+    [_account_status] => field_5aaeda62efb18
+    [consignor] => 
+    [_consignor] => field_5ad75605f106d
+    [ecommerce_store] => 
+    [_ecommerce_store] => field_5ad75aed4aa4a
+    [brick_and_mortar_store] => 
+    [_brick_and_mortar_store] => field_5ad75dbe45322
+    [pick_box] => 
+    [_pick_box] => field_5ad75b704aa4b
+    [account_number] => 
+    [_account_number] => field_5ac283559f84f
+    [business_id_number] => 
+    [_business_id_number] => field_5ac2838fe2866
+    [track_payments] => 
+    [_track_payments] => field_5ac288e96b040
+    [tax_status] => Tax
+    [_tax_status] => field_5aaedad4efb1a
+    [currency] => USD
+    [_currency] => field_5ab6c0289a300
+    [terms] => Active - Net 30
+    [_terms] => field_5aaedab6efb19
+    [cancellation_claim] => 
+    [_cancellation_claim] => field_5ad7552cffcba
+    [minimum_order] => 
+    [_minimum_order] => field_5ab6c3a801180
+    [minimum_order_amount] => 
+    [_minimum_order_amount] => field_5ab6c3c501181
+    [minimum_order_subsequent] => 
+    [_minimum_order_subsequent] => field_5abf9eaca96f7
+    [minimum_order_amount_subsequent] => 
+    [_minimum_order_amount_subsequent] => field_5abf9ed29a2b7
+    [supplier_production_time_day] => 
+    [_supplier_production_time_day] => field_5ad3a134cdb7f
+    [supplier production_time_week] => 
+    [_supplier production_time_week] => field_5ad3a305d68e2
+    [damage_claim] => 
+    [_damage_claim] => field_5ad7557d068f3
+    [return_time] => 
+    [_return_time] => field_5ad759bb030c6
+    [rma_required] => No
+    [_rma_required] => field_5aaedc5a23324
+    [repair_service] => No
+    [_repair_service] => field_5aaedc3f23323
+    [billing_rate] => 
+    [_billing_rate] => field_5ac28fa895f62
+    [notes] => 
+    [_notes] => field_5ac27f15273de
+    [wc_pos_count_orders] => 12
+    [last_login] => 2019-07-25 06:09:12
+    [note] => 
+    [manual] => 1
+    [display_name] => Zain Anabtawi
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Customer Object
+(
+    [_data:protected] => Array
+        (
+            [Id] => Array
+                (
+                    [0] => {-61}
+                )
+
+            [SyncToken] => Array
+                (
+                    [0] => 0
+                )
+
+            [MetaData] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_MetaData Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [CreateTime] => Array
+                                        (
+                                            [0] => 2018-02-22T05:14:36-08:00
+                                        )
+
+                                    [LastUpdatedTime] => Array
+                                        (
+                                            [0] => 2018-02-22T05:14:36-08:00
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [GivenName] => Zain
+            [FamilyName] => Anabtawi
+            [FullyQualifiedName] => Array
+                (
+                    [0] => BatchRT BatchTest
+                )
+
+            [DisplayName] => Zain Anabtawi -4
+            [PrintOnCheckName] => Array
+                (
+                    [0] => BatchRT BatchTest
+                )
+
+            [Active] => Array
+                (
+                    [0] => true
+                )
+
+            [PrimaryPhone] => QuickBooks_IPP_Object_PrimaryPhone Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [FreeFormNumber] => 9723104344
+                        )
+
+                )
+
+            [PrimaryEmailAddr] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_PrimaryEmailAddr Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [Address] => Array
+                                        (
+                                            [0] => btathtes@myworks.design
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [Taxable] => Array
+                (
+                    [0] => true
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => 201 Main St
+                            [Line2] => 
+                            [City] => Fort Worth
+                            [Country] => United States (US)
+                            [CountrySubDivisionCode] => TX
+                            [PostalCode] => 75104
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => 201 Main St
+                            [Line2] => 
+                            [City] => Fort Worth
+                            [Country] => United States (US)
+                            [CountrySubDivisionCode] => TX
+                            [PostalCode] => 75104
+                        )
+
+                )
+
+            [Job] => Array
+                (
+                    [0] => false
+                )
+
+            [BillWithParent] => Array
+                (
+                    [0] => false
+                )
+
+            [Balance] => Array
+                (
+                    [0] => 0
+                )
+
+            [BalanceWithJobs] => Array
+                (
+                    [0] => 0
+                )
+
+            [CurrencyRef] => {-USD}
+            [CurrencyRef_name] => Array
+                (
+                    [0] => United States Dollar
+                )
+
+            [PreferredDeliveryMethod] => Array
+                (
+                    [0] => Print
+                )
+
+            [IsProject] => Array
+                (
+                    [0] => false
+                )
+
+            [CompanyName] => MyWorks Design
+        )
+
+)
+
+Request:
+POST https://sandbox-quickbooks.api.intuit.com/v3/company/123145821637247/customer?requestid=1e9557ab-1a75-2f64-d571-b64ad6726c0a&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="C8GzM%2B0i4%2BJeqzWPVANv18CCFS0%3D",  oauth_nonce="idhgj", oauth_timestamp="1564059246", oauth_token="lvprdxxiK8R9MM68DTNEJYeuLPGfFfvajQ5htD9Fk0Wyg7tW", oauth_consumer_key="qyprdSCZZwsQ59P64QCvfIuj6ZPaqt", oauth_version="1.0"
+Content-Length: 1739
+
+<Customer xmlns="http://schema.intuit.com/finance/v3">
+	<Id>61</Id>
+	<SyncToken>0</SyncToken>
+	<MetaData xmlns="http://schema.intuit.com/finance/v3">
+		<CreateTime>2018-02-22T05:14:36-08:00</CreateTime>
+		<LastUpdatedTime>2018-02-22T05:14:36-08:00</LastUpdatedTime>
+	</MetaData>
+	<GivenName>Zain</GivenName>
+	<FamilyName>Anabtawi</FamilyName>
+	<Active>true</Active>
+	<FullyQualifiedName>BatchRT BatchTest</FullyQualifiedName>
+	<DisplayName>Zain Anabtawi -4</DisplayName>
+	<PrintOnCheckName>BatchRT BatchTest</PrintOnCheckName>
+	<PrimaryPhone xmlns="http://schema.intuit.com/finance/v3">
+		<FreeFormNumber>9723104344</FreeFormNumber>
+	</PrimaryPhone>
+	<PrimaryEmailAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Address>btathtes@myworks.design</Address>
+	</PrimaryEmailAddr>
+	<Taxable>true</Taxable>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>201 Main St</Line1>
+		<Line2></Line2>
+		<City>Fort Worth</City>
+		<Country>United States (US)</Country>
+		<CountrySubDivisionCode>TX</CountrySubDivisionCode>
+		<PostalCode>75104</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>201 Main St</Line1>
+		<Line2></Line2>
+		<City>Fort Worth</City>
+		<Country>United States (US)</Country>
+		<CountrySubDivisionCode>TX</CountrySubDivisionCode>
+		<PostalCode>75104</PostalCode>
+	</ShipAddr>
+	<Job>false</Job>
+	<BillWithParent>false</BillWithParent>
+	<Balance>0</Balance>
+	<BalanceWithJobs>0</BalanceWithJobs>
+	<CurrencyRef>USD</CurrencyRef>
+	<CurrencyRef_name>United States Dollar</CurrencyRef_name>
+	<PreferredDeliveryMethod>Print</PreferredDeliveryMethod>
+	<IsProject>false</IsProject>
+	<CompanyName>MyWorks Design</CompanyName>
+</Customer>
+Response:
+HTTP/2 400 
+date: Thu, 25 Jul 2019 12:54:06 GMT
+content-type: application/xml
+content-length: 418
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: 59338ca8-4ded-4d88-b7d1-313fcbfc1246
+set-cookie: qboeuid=a8bc907b.58e80ebd0a355; path=/; expires=Fri, 24-Jul-20 12:54:06 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-25T05:54:06.844-07:00"><Fault type="ValidationFault"><Error code="6240" element=""><Message>Duplicate Name Exists Error</Message><Detail>The name supplied already exists. : Another customer is already using this name.  Please use a different name.</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-25 17:20:55)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22817
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:18
+    [wc_inv_due_date] => 2019-07-25 16:57:18
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_ERGhFmQuWq4ry
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 6222b925f3b05527a6ae02016263a158
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 20.00
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => A - B Wc &amp; Test &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => A - B Wc & Test
+                    [Qty] => 1
+                    [UnitPrice] => 10
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 495
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 10
+                    [line_subtotal_tax] => 0
+                    [line_total] => 10
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22817
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10
+                                    [Description] => A - B Wc & Test
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 10
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=68a4262a-598f-4584-2dbb-2abfb5a92ec3&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="aL3nQ7sBf%2BicHlCx4HO6OVgBRJg%3D",  oauth_nonce="KNglL", oauth_timestamp="1564075255", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1719
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22817</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>A - B Wc &amp; Test</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>10</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Thu, 25 Jul 2019 17:20:55 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: d70010c7-5b1d-451f-a802-6eb189be70dd
+set-cookie: qboeuid=935f69f6.58e84a606dacb; path=/; expires=Fri, 24-Jul-20 17:20:55 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-25T10:20:55.897-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-25 17:20:56)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22818
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:48
+    [wc_inv_due_date] => 2019-07-25 16:57:48
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_aORcGfWzB4qtr
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 3d846b2745379e984b4e44434d9f5c70
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 23.24
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => ABCDEFGH &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => ABCDEFGH
+                    [Qty] => 1
+                    [UnitPrice] => 13.24
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 298
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 13.24
+                    [line_subtotal_tax] => 0
+                    [line_total] => 13.24
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22818
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 13.24
+                                    [Description] => ABCDEFGH
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 13.24
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=e8ebfb6f-32b7-3a54-097a-708fbf9e1c1f&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="6%2FSsR39EYFIjwJGQmGrKpdZHm4o%3D",  oauth_nonce="EoGLd", oauth_timestamp="1564075256", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1714
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22818</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>13.24</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>ABCDEFGH</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>13.24</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Thu, 25 Jul 2019 17:20:56 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: 89d3f7a5-c1d6-4996-b703-d262c993e8a8
+set-cookie: qboeuid=cc4c2c31.58e84a613048c; path=/; expires=Fri, 24-Jul-20 17:20:56 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-25T10:20:56.664-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-25 17:25:58)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22817
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:18
+    [wc_inv_due_date] => 2019-07-25 16:57:18
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_ERGhFmQuWq4ry
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 6222b925f3b05527a6ae02016263a158
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 20.00
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => A - B Wc &amp; Test &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => A - B Wc & Test
+                    [Qty] => 1
+                    [UnitPrice] => 10
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 495
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 10
+                    [line_subtotal_tax] => 0
+                    [line_total] => 10
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22817
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10
+                                    [Description] => A - B Wc & Test
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 10
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=1ef19358-07d7-7c64-2100-5dc7a91e6299&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="McZvAYKWrMLjxQhRoym44N6%2F5Vw%3D",  oauth_nonce="y79nk", oauth_timestamp="1564075558", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1719
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22817</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>A - B Wc &amp; Test</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>10</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Thu, 25 Jul 2019 17:25:58 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: 28d17c83-c24e-4871-9c8f-70762363d2ed
+set-cookie: qboeuid=e7996594.58e84b80f11d6; path=/; expires=Fri, 24-Jul-20 17:25:58 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-25T10:25:58.518-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-25 17:25:59)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22818
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:48
+    [wc_inv_due_date] => 2019-07-25 16:57:48
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_aORcGfWzB4qtr
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 3d846b2745379e984b4e44434d9f5c70
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 23.24
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => ABCDEFGH &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => ABCDEFGH
+                    [Qty] => 1
+                    [UnitPrice] => 13.24
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 298
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 13.24
+                    [line_subtotal_tax] => 0
+                    [line_total] => 13.24
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22818
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 13.24
+                                    [Description] => ABCDEFGH
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 13.24
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=b9a5ff89-349e-d4b4-1960-bd73b93b4f36&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="0S4wZfsUfaU2fKtTx1tL6ow1cNg%3D",  oauth_nonce="2qsiJ", oauth_timestamp="1564075559", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1714
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22818</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>13.24</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>ABCDEFGH</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>13.24</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Thu, 25 Jul 2019 17:25:59 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: bf2774f6-2cbf-41e4-92b1-e2bd4f19625c
+set-cookie: qboeuid=a22d77a1.58e84b81d8767; path=/; expires=Fri, 24-Jul-20 17:25:59 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-25T10:25:59.345-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-26 07:14:21)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22818
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:48
+    [wc_inv_due_date] => 2019-07-25 16:57:48
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_aORcGfWzB4qtr
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 3d846b2745379e984b4e44434d9f5c70
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 23.24
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [_edit_lock] => 1564125100:1
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => ABCDEFGH &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => ABCDEFGH
+                    [Qty] => 1
+                    [UnitPrice] => 13.24
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 298
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 13.24
+                    [line_subtotal_tax] => 0
+                    [line_total] => 13.24
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 1
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22818
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 13.24
+                                    [Description] => ABCDEFGH
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 13.24
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=e46ff89e-353f-e344-8db5-6a2c51e238ed&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="9KXMMvDGeHJS3Fq3GcWrw3TjxKM%3D",  oauth_nonce="IEUkL", oauth_timestamp="1564125261", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1714
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22818</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>13.24</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>ABCDEFGH</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>13.24</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Fri, 26 Jul 2019 07:14:21 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: 6ed65af1-e859-47f6-9e13-c755df9ad80b
+set-cookie: qboeuid=7b88988b.58e904a964ebc; path=/; expires=Sat, 25-Jul-20 07:14:21 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-26T00:14:21.374-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-26 07:14:24)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22817
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-25 16:57:18
+    [wc_inv_due_date] => 2019-07-25 16:57:18
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_ERGhFmQuWq4ry
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 6222b925f3b05527a6ae02016263a158
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 20.00
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [_edit_lock] => 1564125099:1
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => A - B Wc &amp; Test &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => A - B Wc & Test
+                    [Qty] => 1
+                    [UnitPrice] => 10
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 495
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 10
+                    [line_subtotal_tax] => 0
+                    [line_total] => 10
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 1
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22817
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-25
+            [DueDate] => 2019-07-25
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10
+                                    [Description] => A - B Wc & Test
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 10
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=077c8d4c-d852-2de4-2d08-8ac3ff284803&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="84%2FX2JeRot3J2MkPjfmXGlyg6M0%3D",  oauth_nonce="Ro6HV", oauth_timestamp="1564125263", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1719
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22817</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-25</TxnDate>
+	<DueDate>2019-07-25</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>A - B Wc &amp; Test</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>10</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Fri, 26 Jul 2019 07:14:24 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: cb88b22d-01ce-4fad-8a98-f70e1ef0db51
+set-cookie: qboeuid=b99f1a2.58e904abed246; path=/; expires=Sat, 25-Jul-20 07:14:24 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-26T00:14:24.038-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
+
+Invoice Add (2019-07-26 07:14:27)
+Woocommerce Data:
+Array
+(
+    [wc_inv_id] => 22812
+    [wc_inv_num] => 
+    [order_type] => 
+    [wc_inv_date] => 2019-07-24 17:57:11
+    [wc_inv_due_date] => 2019-07-24 17:57:11
+    [customer_note] => 
+    [order_status] => wc-processing
+    [wc_cus_id] => 80
+    [wc_customerid] => 80
+    [_order_key] => wc_order_0Hp8Yi4zQZFFw
+    [_customer_user] => 80
+    [_payment_method] => cod
+    [_payment_method_title] => Cash on delivery
+    [_customer_ip_address] => 118.185.14.189
+    [_customer_user_agent] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+    [_created_via] => checkout
+    [_cart_hash] => 6222b925f3b05527a6ae02016263a158
+    [_billing_first_name] => Tonmoy
+    [_billing_last_name] => Malik
+    [_billing_address_1] => Kolkata
+    [_billing_city] => Kolkata
+    [_billing_state] => WB
+    [_billing_postcode] => 700091
+    [_billing_country] => IN
+    [_billing_email] => tonmoy@digitalaptech.com
+    [_billing_phone] => 1234567890
+    [_shipping_first_name] => Tonmoy
+    [_shipping_last_name] => Malik
+    [_shipping_address_1] => Kolkata
+    [_shipping_city] => Kolkata
+    [_shipping_state] => WB
+    [_shipping_postcode] => 700091
+    [_shipping_country] => IN
+    [_order_currency] => USD
+    [_cart_discount] => 
+    [_cart_discount_tax] => 
+    [_order_shipping] => 10.00
+    [_order_shipping_tax] => 
+    [_order_tax] => 
+    [_order_total] => 20.00
+    [_order_version] => 3.6.5
+    [_prices_include_tax] => no
+    [_billing_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN tonmoy@digitalaptech.com 1234567890
+    [_shipping_address_index] => Tonmoy Malik  Kolkata  Kolkata WB 700091 IN
+    [is_vat_exempt] => no
+    [_wc_cog_order_total_cost] => 0.00
+    [_download_permissions_granted] => yes
+    [_recorded_sales] => yes
+    [_recorded_coupon_usage_counts] => yes
+    [_order_stock_reduced] => yes
+    [_edit_lock] => 1564125098:1
+    [used_coupons] => Array
+        (
+        )
+
+    [shipping_details] => Array
+        (
+            [0] => Array
+                (
+                    [method_id] => local_pickup
+                    [instance_id] => 2
+                    [cost] => 10.00
+                    [total_tax] => 0
+                    [taxes] => a:1:{s:5:"total";a:0:{}}
+                    [Items] => A - B Wc &amp; Test &times; 1
+                    [name] => Local Pickup
+                    [type] => shipping
+                )
+
+        )
+
+    [order_shipping_total] => 10.00
+    [tax_details] => Array
+        (
+        )
+
+    [qbo_inv_items] => Array
+        (
+            [0] => Array
+                (
+                    [Description] => A - B Wc & Test
+                    [Qty] => 1
+                    [UnitPrice] => 10
+                    [ItemRef] => 1
+                    [acof_map_product] => 
+                    [qbo_product_type] => Service
+                    [Taxed] => 0
+                    [ClassRef] => 
+                    [product_id] => 495
+                    [variation_id] => 0
+                    [tax_class] => 
+                    [line_subtotal] => 10
+                    [line_subtotal_tax] => 0
+                    [line_total] => 10
+                    [line_tax] => 0
+                    [line_tax_data] => a:2:{s:5:"total";a:0:{}s:8:"subtotal";a:0:{}}
+                    [wc_cog_item_cost] => 0
+                    [wc_cog_item_total_cost] => 0
+                    [reduced_stock] => 1
+                    [type] => line_item
+                )
+
+        )
+
+    [dc_gt_fees] => Array
+        (
+        )
+
+    [qbo_customerid] => 132
+    [manual] => 1
+)
+
+QuickBooks Object:
+QuickBooks_IPP_Object_Invoice Object
+(
+    [_data:protected] => Array
+        (
+            [DocNumber] => 22812
+            [CustomerRef] => 132
+            [TxnDate] => 2019-07-24
+            [DueDate] => 2019-07-24
+            [Line] => Array
+                (
+                    [0] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10
+                                    [Description] => A - B Wc & Test
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => 1
+                                                            [Qty] => 1
+                                                            [UnitPrice] => 10
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => QuickBooks_IPP_Object_Line Object
+                        (
+                            [_data:protected] => Array
+                                (
+                                    [DetailType] => SalesItemLineDetail
+                                    [Amount] => 10.00
+                                    [SalesItemLineDetail] => Array
+                                        (
+                                            [0] => QuickBooks_IPP_Object_SalesItemLineDetail Object
+                                                (
+                                                    [_data:protected] => Array
+                                                        (
+                                                            [ItemRef] => SHIPPING_ITEM_ID
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [BillEmail] => QuickBooks_IPP_Object_BillEmail Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Address] => tonmoy@digitalaptech.com
+                        )
+
+                )
+
+            [BillAddr] => QuickBooks_IPP_Object_BillAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [ShipAddr] => QuickBooks_IPP_Object_ShipAddr Object
+                (
+                    [_data:protected] => Array
+                        (
+                            [Line1] => Tonmoy Malik
+                            [Line2] => 
+                            [Line3] => Kolkata
+                            [Line4] => 
+                            [City] => Kolkata
+                            [Country] => India
+                            [CountrySubDivisionCode] => WB
+                            [PostalCode] => 700091
+                        )
+
+                )
+
+            [AllowOnlineCreditCardPayment] => 1
+            [AllowOnlineACHPayment] => 1
+            [ApplyTaxAfterDiscount] => 1
+        )
+
+)
+
+Request:
+POST https://quickbooks.api.intuit.com/v3/company/9130346756183556/invoice?requestid=5666826f-a04c-4ed4-854a-96935b59d405&minorversion=38 HTTP/1.1
+Content-Type: application/xml
+Authorization: OAuth realm="", oauth_signature_method="HMAC-SHA1", oauth_signature="vRpXZrQOfqBzqM%2FKfi%2BFfLvyYBU%3D",  oauth_nonce="WZ8DV", oauth_timestamp="1564125266", oauth_token="lvprd6rjLZ1SwPBcZHLEkrsXoUOi6ZZ52lTMtniZ0jeXfIGA", oauth_consumer_key="qyprdZNHZbDxasBSSjQMBj0K3tPijz", oauth_version="1.0"
+Content-Length: 1719
+
+<Invoice xmlns="http://schema.intuit.com/finance/v3">
+	<DocNumber>22812</DocNumber>
+	<CustomerRef>132</CustomerRef>
+	<TxnDate>2019-07-24</TxnDate>
+	<DueDate>2019-07-24</DueDate>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<Description>A - B Wc &amp; Test</Description>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>1</ItemRef>
+			<Qty>1</Qty>
+			<UnitPrice>10</UnitPrice>
+		</SalesItemLineDetail>
+	</Line>
+	<Line xmlns="http://schema.intuit.com/finance/v3">
+		<Amount>10.00</Amount>
+		<DetailType>SalesItemLineDetail</DetailType>
+		<SalesItemLineDetail xmlns="http://schema.intuit.com/finance/v3">
+			<ItemRef>SHIPPING_ITEM_ID</ItemRef>
+		</SalesItemLineDetail>
+	</Line>
+	<BillEmail xmlns="http://schema.intuit.com/finance/v3">
+		<Address>tonmoy@digitalaptech.com</Address>
+	</BillEmail>
+	<BillAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</BillAddr>
+	<ShipAddr xmlns="http://schema.intuit.com/finance/v3">
+		<Line1>Tonmoy Malik</Line1>
+		<Line2></Line2>
+		<Line3>Kolkata</Line3>
+		<Line4></Line4>
+		<City>Kolkata</City>
+		<Country>India</Country>
+		<CountrySubDivisionCode>WB</CountrySubDivisionCode>
+		<PostalCode>700091</PostalCode>
+	</ShipAddr>
+	<AllowOnlineCreditCardPayment>1</AllowOnlineCreditCardPayment>
+	<AllowOnlineACHPayment>1</AllowOnlineACHPayment>
+	<ApplyTaxAfterDiscount>1</ApplyTaxAfterDiscount>
+</Invoice>
+Response:
+HTTP/2 400 
+date: Fri, 26 Jul 2019 07:14:26 GMT
+content-type: application/xml
+content-length: 366
+server: nginx
+strict-transport-security: max-age=15552000
+intuit_tid: 1372511b-9a21-4946-aca6-ed9282b821bd
+set-cookie: qboeuid=cb9aaf49.58e904aeaf991; path=/; expires=Sat, 25-Jul-20 07:14:26 GMT; domain=.intuit.com
+x-xss-protection: 1; mode=block
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><IntuitResponse xmlns="http://schema.intuit.com/finance/v3" time="2019-07-26T00:14:26.919-07:00"><Fault type="ValidationFault"><Error code="2500" element="Reference Id"><Message>Invalid Reference Id</Message><Detail>Invalid Reference Id : Names element id 132 not found</Detail></Error></Fault></IntuitResponse>
